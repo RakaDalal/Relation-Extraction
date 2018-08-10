@@ -1,0 +1,28 @@
+e1:PRODUCT
+e2:VULNERABILITY
+
+Buffer overflow ;remote database servers
+obtain sensitive information ;local users
+obtain sensitive information ;local users
+denial of service ;local users
+denial of service ;local users
+denial of service ;remote attackers
+heap-based buffer overflow ;local users
+buffer overflow ;remote font servers
+cross-site request forgery ( CSRF ) ;remote attackers
+de-anonymize ;remote authenticated users
+crafted UR ;remote attackers
+denial of service ;remote attackers
+buffer overflow ;local users
+denial of service ;remote attackers
+denial of service ;remote attackers
+execute arbitrary commands ;remote authenticated users
+denial of service ;remote attackers
+bypass access restrictions ;local users
+execute arbitrary code ;remote authenticated users
+denial of service ;remote attackers
+denial of service ;remote attackers
+execute arbitrary code ;remote attackers
+denial of service ;remote authenticated users
+execute arbitrary code ;remote attackers
+denial of service ;remote attackers

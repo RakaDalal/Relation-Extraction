@@ -1,0 +1,28 @@
+e1:PRODUCT
+e2:VULNERABILITY
+
+Oracle MySQL ;Buffer overflow
+Red Hat Enterprise Virtualization reports ( rhevm-reports ) package ;obtain sensitive information
+Red Hat Enterprise Virtualization reports package ( rhevm-reports ) ;obtain sensitive information
+Linux kernel ;denial of service
+Linux kernel ;denial of service
+Fileinfo component in PHP ;denial of service
+X.Org libXfont ;heap-based buffer overflow
+X.Org libXfont ;buffer overflow
+Moodle ;cross-site request forgery ( CSRF )
+Moodle ;de-anonymize
+Moodle ;crafted UR
+OpenSSL ;denial of service
+QEMU ;buffer overflow
+Apache Tomcat ;denial of service
+Apache HTTP Server ;denial of service
+Red Hat OpenShift Enterprise ;execute arbitrary commands
+Fileinfo component in PHP ;denial of service
+Samba ;denial of service
+LibreOffice ;unspecified impact and attack vectors
+The System Security Services Daemon ( SSSD ) ;bypass access restrictions
+SharePoint Server 2013 Client Components SDK ;execute arbitrary code
+Microsoft .NET Framework ;denial of service
+Microsoft Windows Server 2008 ;denial of service
+Microsoft .NET Framework ;execute arbitrary code
+Microsoft Dynamics AX 4.0 ;denial of service
