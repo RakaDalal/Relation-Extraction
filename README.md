@@ -1,3 +1,5 @@
 # Relation-Extraction
 
+Safeguarding systems against adversarial attacks and accidental breaches is a key goal of cybersecurity analysts. Extensive manual effort is required, currently, to extract actionable knowledge from the large corpus of cybersecurity advisories about securing software systems that are available on the web and other public sources. Automatically extracting information of vulnerabilities, that could potentially harm an enterprise system, and their relations to the various products will accelerate the detection and remediation of a potential attack. We created an end-to-end pipeline that uses a semi-supervised bootstrap learning based approach to automatically extract different relations from cybersecurity text with limited training samples. We applied the methodology to the Common Vulnerabilities and Exposures (CVE) dataset and achieved promising results. This methodology can be used to automatically populate a cybersecurity knowledge base of different products and potential vulnerabilities.
+
 This repository contains the code for relation extraction from unstructured text with limited training samples.
